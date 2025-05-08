@@ -3,3 +3,7 @@
 ###### sorry for calling it a hashtag ######
 
 ![A gray kitten is in the air, encouraging viewer to BELIEVE!](https://m.media-amazon.com/images/I/91CojPTqKjL.jpg)
+
+``` python
+print('Hello, world!')
+```
