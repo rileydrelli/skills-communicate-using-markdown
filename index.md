@@ -7,3 +7,7 @@
 ``` python
 print('Hello, world!')
 ```
+# My task list #
+- [ ] Wash the dishes
+- [ ] Go on a walk
+- [x] Be super awesome
